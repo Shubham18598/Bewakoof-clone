@@ -5,7 +5,8 @@ Bewakoof.com is an E-Commerce website, where could buy a varities of clothes of 
 
 #### <a href="https://glamour-ashy.vercel.app">Want to see live preview >></a>
 
-https://user-images.githubusercontent.com/95957405/158535400-27a6ca70-40bd-4a1e-a2a3-abb08cdfecd3.png
+
+![image](https://user-images.githubusercontent.com/95957405/158535400-27a6ca70-40bd-4a1e-a2a3-abb08cdfecd3.png)
 
 
 ### Pages
